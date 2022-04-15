@@ -478,7 +478,7 @@ h5 {
 	visibility: visible;
 }
 
-@media screen and (max-width: 1408px) {
+@media only screen and (max-width: 1408px) {
 	body {
 		flex-direction: column;
 	}
@@ -581,7 +581,7 @@ h5 {
 	color: #2e94e3;
 }
 
-@media screen and (width: 420px) {
+@media only screen and (width: 420px) {
 	body {
 		flex-direction: column;
 		width: 70vh;

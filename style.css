@@ -481,7 +481,7 @@ h5 {
 @media screen and (max-width: 1408px) {
 	body {
 		flex-direction: column;
-		width: 70vh;
+		width: 65vh;
 	}
 
 	.contact-info,

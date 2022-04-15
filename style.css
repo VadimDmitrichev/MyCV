@@ -581,7 +581,7 @@ h5 {
 	color: #2e94e3;
 }
 
-@media only screen and (width: 420px) {
+@media only screen and (max-width: 420px) {
 	body {
 		flex-direction: column;
 		width: 70vh;

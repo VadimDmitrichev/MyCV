@@ -481,7 +481,6 @@ h5 {
 @media screen and (max-width: 1408px) {
 	body {
 		flex-direction: column;
-		width: 68vh;
 	}
 
 	.contact-info,
@@ -581,3 +580,9 @@ h5 {
 .icons3 {
 	color: #2e94e3;
 }
+
+@media screen and (width: 420px) {
+	body {
+		flex-direction: column;
+		width: 70vh;
+	}
